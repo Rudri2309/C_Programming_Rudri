@@ -110,7 +110,7 @@ class lecture{
 			cout<<"Lectuer Number : "<<number2<<endl<<endl;
 			cout<<"Lectuer Name   : "<<lname2<<endl<<endl;
 			cout<<"Subject Name   : "<<sub2<<endl<<endl;
-			cout<<"Course  Name   : "<<course2<<endl<<endl;
+			cout<<"Course  Name   : "<<course2<<endl<<endl; 
 			
 			cout<<"--------------------------------------"<<endl;
 			
